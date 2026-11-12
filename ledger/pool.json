@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "20261112-1126-9b3f-整理并导入其它电脑的工作任务": {"category": "规划", "created": "2026-11-12 11:26:58", "creator": "bc5a9cf0-b133-49d3-b1a7-3e0ae1534a4f", "creator_name": "老大", "finished": null, "owner": null, "owner_name": null, "started": null, "status": "open", "tags": ["任务同步", "多设备", "台账"], "title": "整理并导入其它电脑的工作任务", "updated": "2026-11-12 11:26:58", "worklog": "worklog/202611/12-1126-9b3f-整理并导入其它电脑的工作任务.md"}
+  },
+  "version": "20261022000000"
+}
